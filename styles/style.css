@@ -93,7 +93,7 @@ main > section{
 
 
 /* Every other Article's Post-Content Background Color to a Light Grey */
-article:nth-of-type(even) {
+article:nth-of-type(even) .post-content{
   background-color: lightgray;
 }
 
